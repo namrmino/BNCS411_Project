@@ -1,2 +1,2 @@
-# Insight_about_Suicide_of_Worldwide_and_Korea
-Suicide_Rates_Overview_1985_to_2016
+# Suicide_Rates_Overview_1985_to_2016
+[ ML/DL Project ] Suicide Rates Overview 1985 to 2016
